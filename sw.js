@@ -1,7 +1,7 @@
 // sw.js - Service Worker con Cache API
 
 // 1. Definimos el nombre y la versión de la caché estática
-const CACHE_NAME = 'devconnect-shell-v1';
+const CACHE_NAME = 'mariana-devconnect-shell-v1';
 
 // 2. Listamos todos los recursos estáticos esenciales que forman el App Shell
 const STATIC_ASSETS = [
